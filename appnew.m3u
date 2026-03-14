@@ -1,1 +1,33 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://img.onetv.plus/icones_channels/CN_CARTOON_HD.png" group-title="⭐ 4K",CARTOON NETWORK 4K
+http://newoneblue.site:80/roseni/123456/231451
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://img.onetv.plus/icones_channels/Animal_Planet_HD.png" group-title="⭐ 4K",ANIMAL PLANET 4K
+http://newoneblue.site:80/roseni/123456/231448
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN 4K" tvg-logo="https://img.onetv.plus/icones_channels/AXN_HD.png" group-title="⭐ 4K",AXN 4K
+http://newoneblue.site:80/roseni/123456/231449
+#EXTINF:-1 tvg-id="BandSaoPaulo.br" tvg-name="BAND SP 4K" tvg-logo="https://img.onetv.plus/icones_channels/Band_Brasilia_HD.png" group-title="⭐ 4K",BAND SP 4K
+http://newoneblue.site:80/roseni/123456/231450
+#EXTINF:-1 tvg-id="br#cnn-brasil-1" tvg-name="CNN BRASIL 4K" tvg-logo="https://img.onetv.plus/icones_channels/CNN_brasil_HD.png" group-title="⭐ 4K",CNN BRASIL 4K
+http://newoneblue.site:80/roseni/123456/231452
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE 4K" tvg-logo="https://img.onetv.plus/icones_channels/COMBATE_HD.png" group-title="⭐ 4K",COMBATE 4K
+http://newoneblue.site:80/roseni/123456/231453
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="https://img.onetv.plus/icones_channels/Comedy_Central_HD.png" group-title="⭐ 4K",COMEDY CENTRAL 4K
+http://newoneblue.site:80/roseni/123456/231454
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://img.onetv.plus/icones_channels/DISCOVERY_HD.png" group-title="⭐ 4K",DISCOVERY CHANNEL 4K
+http://newoneblue.site:80/roseni/123456/231455
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="DISCOVERY H&H 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-home-health-hd_m.png" group-title="⭐ 4K",DISCOVERY H&H 4K
+http://newoneblue.site:80/roseni/123456/231456
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="DISCOVERY TURBO 4K" tvg-logo="https://img.onetv.plus/icones_channels/DISCOVERY_TURBO_HD.png" group-title="⭐ 4K",DISCOVERY TURBO 4K
+http://newoneblue.site:80/roseni/123456/231457
+#EXTINF:-1 tvg-id="br#espn-hd" tvg-name="ESPN 4K" tvg-logo="https://img.onetv.plus/icones_channels/ESPN_HD.png" group-title="⭐ 4K",ESPN 4K
+http://newoneblue.site:80/roseni/123456/231459
+#EXTINF:-1 tvg-id="br#globo-news-hd" tvg-name="GLOBO NEWS 4K" tvg-logo="http://www.tmsimg.com/assets/s38310_ll_h3_aa.png" group-title="⭐ 4K",GLOBO NEWS 4K
+http://newoneblue.site:80/roseni/123456/231460
+#EXTINF:-1 tvg-id="br#globo-s-o-paulo-hd" tvg-name="GLOBO SP 4K" tvg-logo="https://img.onetv.plus/icones_channels/GLOBO_RS_HD.png" group-title="⭐ 4K",GLOBO SP 4K
+http://newoneblue.site:80/roseni/123456/231461
+#EXTINF:-1 tvg-id="br#gnt-hd" tvg-name="GNT 4K" tvg-logo="https://img.onetv.plus/icones_channels/GNT_HD.png" group-title="⭐ 4K",GNT 4K
+http://newoneblue.site:80/roseni/123456/231462
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO 4K" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a81c6c5-42ab-4756-b565-0f62812ab86a/diclqu1-292bf47b-1c8d-47a1-9a85-5e667a83821b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wYTgxYzZjNS00MmFiLTQ3NTYtYjU2NS0wZjYyODEyYWI4NmEvZGljbHF1MS0yOTJiZjQ3Yi0xYzhkLTQ3YTEtOWE4NS01ZTY2N2E4MzgyMWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OIanTwmrMI_tyUuW__YvSFDZeTD92aTGWr4aOqXoQ5o" group-title="⭐ 4K",HBO 4K
+http://newoneblue.site:80/roseni/123456/231490
 
