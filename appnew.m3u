@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo Bahia Salvador HD" tvg-logo="https://icons-wapp.ipcdn4.com/pasta%202/_0000s_0000s_0000s_0182_Globo.png" group-title="Canais | Brasil",Globo Bahia Salvador HD
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-name="A Maldição de Samantha - 1986" tvg-logo="https://image.tmdb.org/t/p/w780/lASH7BmOwFauqVR9NHysgOS08Xr.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",A Maldição de Samantha - 1986
 http://newoneblue.site:80/movie/CalangoDoido2/CalangoDoido2/1390385.mp4
 #EXTINF:-1 tvg-name="O Vidente - 2007" tvg-logo="https://image.tmdb.org/t/p/w780/fFehtsCSORmECTCgs6mntAYFvL4.jpg" group-title="FILMES | FICÇÃO CIENTÍFICA",O Vidente - 2007
